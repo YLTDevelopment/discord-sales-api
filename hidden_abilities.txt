@@ -1,0 +1,933 @@
+Abomasnow: Soundproof
+Abra: Magic Guard
+Absol: Justified
+Accelgor: Unburden
+Aerodactyl: Unnerve
+Aggron: Heavy Metal
+Aipom: Skill Link
+Alakazam: Magic Guard
+Alcremie: Aroma Veil
+Alomomola: Regenerator
+Altaria: Cloud Nine
+Amaura: Snow Warning
+Ambipom: Skill Link
+Amoonguss: Regenerator
+Ampharos: Plus
+Annihilape: Defiant
+Anorith: Swift Swim
+Appletun: Thick Fat
+Applin: Bulletproof
+Araquanid: Water Absorb
+Arboliva: Harvest
+Arcanine (Hisui): Rock Head
+Arcanine (Kanto): Justified
+Arceus: Spawn timeAny
+Archen: Spawn timeDay
+Archeops: Spawn timeDay
+Arctibax: Ice Body
+Arctovish: Slush Rush
+Arctozolt: Slush Rush
+Ariados: Sniper
+Armaldo: Swift Swim
+Armarouge: Weak Armor
+Aromatisse: Aroma Veil
+Aron: Heavy Metal
+Arrokuda: Propeller Tail
+Articuno (Galar): Spawn timeNone
+Articuno (Kanto): Snow Cloak
+Audino: Klutz
+Aurorus: Snow Warning
+Avalugg (Hisui): Sturdy
+Avalugg (Kalos): Sturdy
+Axew: Unnerve
+Azelf: Spawn timeMorning
+Azurill: Sap Sipper
+Banette: Cursed Body
+Barbaracle: Pickpocket
+Barboach: Hydration
+Barraskewda: Propeller Tail
+Basculegion: Mold Breaker
+Bastiodon: Soundproof
+Baxcalibur: Ice Body
+Bayleef: Leaf Guard
+Beartic: Swift Swim
+Beautifly: Rivalry
+Beheeyem: Analytic
+Beldum: Light Metal
+Bellibolt: Damp
+Bergmite: Sturdy
+Bewear: Unnerve
+Bibarel: Moody
+Bidoof: Moody
+Binacle: Pickpocket
+Bisharp: Pressure
+Blacephalon: Spawn timeAny
+Blastoise: Rain Dish
+Blaziken: Speed Boost
+Blipbug: Telepathy
+Blitzle: Sap Sipper
+Boldore: Sand Force
+Bombirdier: Rocky Payload
+Bonsly: Rattled
+Bouffalant: Soundproof
+Bounsweet: Sweet Veil
+Braixen: Magician
+Braviary (Hisui): Tinted Lens
+Braviary (Unova): Defiant
+Brionne: Liquid Voice
+Bronzong: Heavy Metal
+Bronzor: Heavy Metal
+Brute Bonnet: Spawn timeAny
+Bruxish: Wonder Skin
+Budew: Leaf Guard
+Buizel: Water Veil
+Bulbasaur: Chlorophyll
+Buneary: Limber
+Bunnelby: Huge Power
+Buzzwole: Spawn timeAny
+Cacnea: Water Absorb
+Cacturne: Water Absorb
+Calyrex: Spawn timeMorning
+Camerupt: Anger Point
+Capsakid: Klutz
+Carbink: Sturdy
+Carkol: Flash Fire
+Carnivine: Spawn timeDawn, Dusk
+Carracosta: Swift Swim
+Carvanha: Speed Boost
+Cascoon: Spawn timeAfternoon/Dusk
+Celebi: Spawn timeNone
+Celesteela: Spawn timeAny
+Ceruledge: Weak Armor
+Cetitan: Sheer Force
+Cetoddle: Sheer Force
+Chandelure: Infiltrator
+Charcadet: Flame Body
+Charizard: Solar Power
+Charjabug: Spawn timeAfternoonDusk/Night
+Charmander: Solar Power
+Charmeleon: Solar Power
+Chatot: Big Pecks
+Cherubi: Spawn timeDay
+Chesnaught: Bulletproof
+Chespin: Bulletproof
+Chewtle: Swift Swim
+Chi-Yu: Spawn timeDay
+Chien-Pao: Spawn timeNight
+Chikorita: Leaf Guard
+Chimchar: Iron Fist
+Chimecho: Spawn timeDawn/Dusk
+Chinchou: Water Absorb
+Chingling: Spawn timeNone
+Cinccino: Skill Link
+Cinderace: Libero
+Clamperl: Rattled
+Clauncher: Spawn timeDay
+Clawitzer: Spawn timeDay
+Clefable: Unaware
+Clefairy: Friend Guard
+Cleffa: Friend Guard
+Clobbopus: Technician
+Clodsire: Unaware
+Cloyster: Overcoat
+Coalossal: Flash Fire
+Cobalion: Spawn timeDawn
+Cofagrigus: Spawn timeNight
+Combee: Hustle
+Combusken: Speed Boost
+Comfey: Natural Cure
+Conkeldurr: Iron Fist
+Copperajah: Heavy Metal
+Corphish: Adaptability
+Corsola (Galar): Cursed Body
+Corsola (Johto): Regenerator
+Corviknight: Mirror Armor
+Corvisquire: Big Pecks
+Cosmoem: Spawn timeNone
+Cosmog: Spawn timeDusk/Night
+Cottonee: Chlorophyll
+Crabominable: Anger Point
+Crabrawler: Anger Point
+Cradily: Storm Drain
+Cramorant: Spawn timeDay
+Cranidos: Sheer Force
+Crawdaunt: Adaptability
+Cresselia: Spawn timeNight during Moon Phase 0
+Croagunk: Poison Touch
+Crocalor: Unaware
+Croconaw: Sheer Force
+Crustle: Weak Armor
+Cryogonal: Spawn timeMorning
+Cubchoo: Rattled
+Cubone: Battle Armor
+Cufant: Heavy Metal
+Cursola: Perish Body
+Cutiefly: Sweet Veil
+Cyclizar: Regenerator
+Cyndaquil: Flash Fire
+Dachsbun: Aroma Veil
+Darkrai: Spawn timeNight during Moon Phase 4
+Darmanitan (Galar): Zen Mode
+Darmanitan (Unova): Zen Mode
+Dartrix: Long Reach
+Darumaka (Galar): Inner Focus
+Darumaka (Unova): Inner Focus
+Decidueye (Alola): Long Reach
+Decidueye (Hisui): Scrappy
+Dedenne: Plus
+Deino: Spawn timeNight, *Any Underground*
+Delcatty: Wonder Skin
+Delibird: Insomnia
+Delphox: Magician
+Deoxys: Spawn timeMorning
+Dewgong: Ice Body
+Dewott: Shell Armor
+Dewpider: Water Absorb
+Dhelmise: Spawn timeNight
+Diancie: Spawn timeMorning
+Diggersby: Huge Power
+Diglett (Alola): Sand Force
+Diglett (Kanto): Sand Force
+Ditto: Imposter
+Dolliv: Harvest
+Dondozo: Water Veil
+Donphan: Sand Veil
+Dottler: Telepathy
+Dracovish: Sand Rush
+Dracozolt: Sand Rush
+Dragalge: Adaptability
+Dragonair: Marvel Scale
+Drampa: Cloud Nine
+Drapion: Keen Eye
+Dratini: Marvel Scale
+Drednaw: Swift Swim
+Drifblim: Flare Boost
+Drifloon: Flare Boost
+Drilbur: Mold Breaker
+Drizzile: Sniper
+Drowzee: Inner Focus
+Druddigon: Mold Breaker
+Ducklett: Hydration
+Dugtrio (Alola): Sand Force
+Dugtrio (Kanto): Sand Force
+Dunsparce: Rattled
+Duosion: Regenerator
+Duraludon: Stalwart
+Durant: Truant
+Dusclops: Frisk
+Dusknoir: Frisk
+Duskull: Frisk
+Dwebble: Weak Armor
+Eelektrik: Spawn timeNight
+Eelektross: Spawn timeNight
+Eiscue: Spawn timeAny
+Ekans: Unnerve
+Eldegoss: Effect Spore
+Electabuzz: Vital Spirit
+Electrike: Minus
+Electrode (Hisui): Aftermath
+Electrode (Kanto): Aftermath
+Elekid: Vital Spirit
+Elgyem: Analytic
+Emboar: Reckless
+Emolga: Motor Drive
+Empoleon: Defiant
+Enamorus: Contrary
+Entei: Inner Focus
+Escavalier: Overcoat
+Espathra: Speed Boost
+Espurr: Own Tempo
+Eternatus: Spawn timeDawn/Morning
+Excadrill: Mold Breaker
+Exeggutor (Alola): Harvest
+Exeggutor (Kanto): Harvest
+Exploud: Scrappy
+Falinks: Defiant
+Farfetch'd (Galar): Scrappy
+Farfetch'd (Kanto): Defiant
+Farigiraf: Sap Sipper
+Fearow: Sniper
+Feebas: Adaptability
+Fennekin: Magician
+Feraligatr: Sheer Force
+Ferroseed: Spawn timeDay
+Ferrothorn: Anticipation
+Fidough: Klutz
+Finizen: Spawn timeDay
+Finneon: Water Veil
+Flaaffy: Plus
+Flamigo: Costar
+Flapple: Hustle
+Fletchinder: Gale Wings
+Fletchling: Gale Wings
+Flittle: Speed Boost
+Floatzel: Water Veil
+Flutter Mane: Spawn timeAny
+Flygon: Spawn timeDawn, Dusk
+Fomantis: Contrary
+Foongus: Regenerator
+Forretress: Overcoat
+Fraxure: Unnerve
+Frigibax: Ice Body
+Frillish: Damp
+Froslass: Cursed Body
+Frosmoth: Ice Scales
+Fuecoco: Unaware
+Furfrou: Spawn timeDay
+Furret: Frisk
+Gabite: Rough Skin
+Galvantula: Swarm
+Garbodor: Aftermath
+Garchomp: Rough Skin
+Garganacl: Clear Body
+Gastly: Spawn timeNight
+Gastrodon: Sand Force
+Genesect: Spawn timeNight
+Geodude (Alola): Galvanize
+Geodude (Kanto): Sand Veil
+Gholdengo: Spawn timeAny
+Gible: Rough Skin
+Gigalith: Sand Force
+Gimmighoul: Spawn timeAny
+Girafarig: Sap Sipper
+Giratina: Telepathy
+Glalie: Moody
+Glameow: Keen Eye
+Glastrier: Spawn timeDay
+Gligar: Immunity
+Glimmet: Corrosion
+Glimmora: Corrosion
+Gliscor: Poison Heal
+Gogoat: Grass Pelt
+Goldeen: Lightning Rod
+Golduck: Swift Swim
+Golem (Alola): Galvanize
+Golem (Kanto): Sand Veil
+Golett: No Guard
+Golisopod: Spawn timeDawn/Dusk
+Golurk: No Guard
+Goodra (Hisui): Gooey
+Goodra (Kalos): Gooey
+Goomy: Gooey
+Gorebyss: Hydration
+Gossifleur: Effect Spore
+Gothita: Shadow Tag
+Gothitelle: Shadow Tag
+Gothorita: Shadow Tag
+Gourgeist: Insomnia
+Grafaiai: Prankster
+Granbull: Rattled
+Grapploct: Technician
+Graveler (Alola): Galvanize
+Graveler (Kanto): Sand Veil
+Great Tusk: Spawn timeAny
+Greedent: Gluttony
+Grimer (Alola): Power of Alchemy
+Grimer (Kanto): Poison Touch
+Grimmsnarl: Pickpocket
+Grookey: Grassy Surge
+Grotle: Shell Armor
+Groudon: Spawn timeDay
+Grovyle: Unburden
+Growlithe (Hisui): Rock Head
+Growlithe (Kanto): Justified
+Grubbin: Spawn timeAfternoonDusk/Night
+Grumpig: Gluttony
+Gulpin: Gluttony
+Gumshoos: Adaptability
+Gurdurr: Iron Fist
+Guzzlord: Spawn timeAny
+Gyarados: Moxie
+Hakamo-o: Overcoat
+Happiny: Friend Guard
+Hariyama: Sheer Force
+Hatenna: Magic Bounce
+Hatterene: Magic Bounce
+Hattrem: Magic Bounce
+Haunter: Spawn timeAnyNight
+Hawlucha: Mold Breaker
+Haxorus: Unnerve
+Heatmor: White Smoke
+Heatran: Flame Body
+Heliolisk: Solar Power
+Helioptile: Solar Power
+Heracross: Moxie
+Herdier: Scrappy
+Hippopotas: Sand Force
+Hippowdon: Sand Force
+Hitmonchan: Inner Focus
+Hitmonlee: Unburden
+Hitmontop: Steadfast
+Ho-Oh: Regenerator
+Honchkrow: Moxie
+Hoopa: Spawn timeAfternoon
+Hoothoot: Tinted Lens
+Hoppip: Infiltrator
+Horsea: Damp
+Houndour: Unnerve
+Huntail: Water Veil
+Hypno: Inner Focus
+Igglybuff: Friend Guard
+Illumise: Prankster
+Impidimp: Pickpocket
+Incineroar: Intimidate
+Indeedee: Psychic Surge
+Infernape: Iron Fist
+Inkay: Infiltrator
+Inteleon: Sniper
+Iron Bundle: Spawn timeAny
+Iron Hands: Spawn timeAny
+Iron Jugulis: Spawn timeAny
+Iron Leaves: Spawn timeNone
+Iron Moth: Spawn timeAny
+Iron Thorns: Spawn timeAny
+Iron Treads: Spawn timeAny
+Jangmo-o: Overcoat
+Jellicent: Damp
+Jigglypuff: Friend Guard
+Jirachi: Spawn timeDawn/Morning
+Joltik: Swarm
+Jumpluff: Infiltrator
+Jynx: Dry Skin
+Kabuto: Weak Armor
+Kabutops: Weak Armor
+Kadabra: Magic Guard
+Kangaskhan: Inner Focus
+Karrablast: No Guard
+Kartana: Spawn timeAny
+Keldeo: Spawn timeDay
+Kilowattrel: Competitive
+Kingambit: Pressure
+Kingdra: Damp
+Kingler: Sheer Force
+Klang: Clear Body
+Klawf: Regenerator
+Kleavor: Sharpness
+Klefki: Magician
+Klink: Clear Body
+Klinklang: Clear Body
+Koffing: Stench
+Komala: Spawn timeNight
+Kommo-o: Overcoat
+Koraidon: Spawn timeDay
+Krabby: Sheer Force
+Kricketot: Run Away
+Kricketune: Technician
+Krokorok: Anger Point
+Krookodile: Anger Point
+Kubfu: Spawn timeAfternoon
+Kyogre: Spawn timeNight
+Kyurem: Spawn timeAfternoon/Dusk
+Lairon: Heavy Metal
+Lampent: Infiltrator
+Landorus: Sheer Force
+Lanturn: Water Absorb
+Lapras: Hydration
+Larvesta: Swarm
+Larvitar: Sand Veil
+Latias: Spawn timeMorning
+Latios: Spawn timeAfternoon
+Leavanny: Overcoat
+Lechonk: Thick Fat
+Ledian: Iron Fist
+Ledyba: Rattled
+Lickilicky: Cloud Nine
+Lickitung: Cloud Nine
+Liepard: Prankster
+Lileep: Storm Drain
+Lilligant (Hisui): Leaf Guard
+Lilligant (Unova): Leaf Guard
+Lillipup: Run Away
+Linoone (Galar): Quick Feet
+Linoone (Hoenn): Quick Feet
+Litleo: Moxie
+Litten: Intimidate
+Litwick: Infiltrator
+Lokix: Tinted Lens
+Lombre: Own Tempo
+Lotad: Own Tempo
+Loudred: Scrappy
+Lucario: Justified
+Ludicolo: Own Tempo
+Lugia: Multiscale
+Lumineon: Water Veil
+Lunala: Spawn timeNone
+Lurantis: Contrary
+Luvdisc: Hydration
+Luxio: Guts
+Luxray: Guts
+Mabosstiff: Stakeout
+Machamp: Steadfast
+Machoke: Steadfast
+Machop: Steadfast
+Magby: Vital Spirit
+Magcargo: Weak Armor
+Magearna: Spawn timeMorning
+Magmar: Vital Spirit
+Magmortar: Vital Spirit
+Magnemite: Analytic
+Magneton: Analytic
+Magnezone: Analytic
+Makuhita: Sheer Force
+Malamar: Infiltrator
+Mamoswine: Thick Fat
+Manaphy: Spawn timeMorning
+Mandibuzz: Weak Armor
+Manectric: Minus
+Mantine: Water Veil
+Mantyke: Water Veil
+Maractus: Storm Drain
+Marowak (Alola): Rock Head
+Marowak (Kanto): Battle Armor
+Marshadow: Spawn timeNight
+Marshtomp: Damp
+Maschiff: Stakeout
+Masquerain: Unnerve
+Maushold: Technician
+Mawile: Sheer Force
+Medicham: Telepathy
+Meditite: Telepathy
+Meganium: Leaf Guard
+Melmetal: Spawn timeNone
+Meloetta: Spawn timeNight
+Meltan: Spawn timeAny
+Meowstic: Prankster
+Meowth (Alola): Rattled
+Meowth (Galar): Unnerve
+Meowth (Kanto): Unnerve
+Mesprit: Spawn timeDawn/Morning
+Metagross: Light Metal
+Metang: Light Metal
+Mew: Spawn timeDay
+Mewtwo: Unnerve
+Mienfoo: Reckless
+Mienshao: Reckless
+Mightyena: Moxie
+Milcery: Aroma Veil
+Miltank: Sap Sipper
+Mime Jr.: Technician
+Minccino: Skill Link
+Minior: Spawn timeNight
+Minun: Volt Absorb
+Miraidon: Spawn timeNight
+Moltres (Galar): Spawn timeNone
+Moltres (Kanto): Flame Body
+Monferno: Iron Fist
+Morelull: Rain Dish
+Morgrem: Pickpocket
+Morpeko: Spawn timeNight
+Mothim: Tinted Lens
+Mr. Mime (Galar): Ice Body
+Mr. Mime (Kanto): Technician
+Mr. Rime: Ice Body
+Mudbray: Inner Focus
+Mudkip: Damp
+Mudsdale: Inner Focus
+Muk (Alola): Power of Alchemy
+Muk (Kanto): Poison Touch
+Munchlax: Gluttony
+Munna: Telepathy
+Murkrow: Prankster
+Musharna: Telepathy
+Nacli: Clear Body
+Naclstack: Clear Body
+Naganadel: Spawn timeNone
+Natu: Magic Bounce
+Necrozma (Dawn Wing Necrozma): 1×
+Necrozma (Dusk Mane Necrozma): 1×
+Necrozma (Ultra Necrozma): 2×
+Nickit: Stakeout
+Nihilego: Spawn timeAny
+Nincada: Run Away
+Ninetales (Alola): Snow Warning
+Ninetales (Kanto): Drought
+Ninjask: Infiltrator
+Noctowl: Tinted Lens
+Noibat: Telepathy
+Noivern: Telepathy
+Nosepass: Sand Force
+Numel: Own Tempo
+Nuzleaf: Pickpocket
+Nymble: Tinted Lens
+Obstagoon: Defiant
+Octillery: Moody
+Omanyte: Weak Armor
+Omastar: Weak Armor
+Oranguru: Symbiosis
+Orbeetle: Telepathy
+Orthworm: Sand Veil
+Oshawott: Shell Armor
+Overqwil: Intimidate
+Pachirisu: Pachirisu
+Palossand: Sand Veil
+Palpitoad: Water Absorb
+Pancham: Scrappy
+Pangoro: Scrappy
+Panpour: Torrent
+Pansage: Overgrow
+Pansear: Blaze
+Passimian: Defiant
+Patrat: Analytic
+Pawmi: Iron Fist
+Pawmo: Iron Fist
+Pawmot: Iron Fist
+Pawniard: Pressure
+Pelipper: Rain Dish
+Perrserker: Steely Spirit
+Persian (Alola): Rattled
+Persian (Kanto): Unnerve
+Petilil: Leaf Guard
+Phanpy: Sand Veil
+Phantump: Harvest
+Pheromosa: Spawn timeAny
+Phione: Spawn timeNone
+Pichu: Lightning Rod
+Pidove: Rivalry
+Pignite: Thick Fat
+Pikachu: Lightning Rod
+Pikipek: Pickup
+Piloswine: Thick Fat
+Pincurchin: Electric Surge
+Pineco: Overcoat
+Pinsir: Moxie
+Piplup: Defiant
+Plusle: Lightning Rod
+Poipole: Spawn timeAny
+Politoed: Drizzle
+Poliwhirl: Swift Swim
+Ponyta (Galar): Anticipation
+Ponyta (Kanto): Flame Body
+Poochyena: Rattled
+Popplio: Liquid Voice
+Porygon: Analytic
+Porygon-Z: Analytic
+Primarina: Liquid Voice
+Prinplup: Defiant
+Probopass: Sand Force
+Psyduck: Swift Swim
+Pumpkaboo: Insomnia
+Pupitar: Spawn timeNight
+Purrloin: Prankster
+Purugly: Defiant
+Pyroar: Moxie
+Quagsire: Unaware
+Quaquaval: Moxie
+Quaxly: Moxie
+Quaxwell: Moxie
+Quilava: Flash Fire
+Quilladin: Bulletproof
+Qwilfish (Hisui): Intimidate
+Qwilfish (Johto): Intimidate
+Raboot: Libero
+Rabsca: Telepathy
+Raichu (Alola): Spawn timeMorning
+Raichu (Kanto): Lightning Rod
+Raikou: Inner Focus
+Rampardos: Sheer Force
+Rapidash (Galar): Anticipation
+Rapidash (Kanto): Flame Body
+Raticate (Alola): Thick Fat
+Raticate (Kanto): Hustle
+Rattata (Alola): Thick Fat
+Rattata (Kanto): Hustle
+Rayquaza: Spawn timeAfternoon/Dusk
+Regice: Ice Body
+Regidrago: Spawn timeDay
+Regieleki: Spawn timeAfternoon
+Regigigas: Spawn timeAfternoon/Dusk
+Regirock: Sturdy
+Registeel: Light Metal
+Relicanth: Sturdy
+Rellor: Shed Skin
+Remoraid: Moody
+Reshiram: Spawn timeDay
+Reuniclus: Regenerator
+Revavroom: Filter
+Rhyperior: Reckless
+Ribombee: Sweet Veil
+Rillaboom: Grassy Surge
+Riolu: Prankster
+Roaring Moon: Spawn timeAny
+Rockruff: Steadfast
+Roggenrola: Sand Force
+Rolycoly: Flash Fire
+Rookidee: Big Pecks
+Roselia: Leaf Guard
+Rowlet: Long Reach
+Rufflet: Hustle
+Runerigus: Spawn timeNight
+Sableye: Prankster
+Salandit: Oblivious
+Salazzle: Oblivious
+Samurott (Hisui): Sharpness
+Samurott (Unova): Shell Armor
+Sandaconda: Sand Veil
+Sandile: Anger Point
+Sandshrew (Alola): Slush Rush
+Sandshrew (Kanto): Sand Rush
+Sandslash (Alola): Slush Rush
+Sandslash (Kanto): Sand Rush
+Sandy Shocks: Spawn timeAny
+Sandygast: Sand Veil
+Sawk: Mold Breaker
+Scatterbug: Friend Guard
+Sceptile: Unburden
+Scizor: Light Metal
+Scolipede: Speed Boost
+Scorbunny: Libero
+Scovillain: Moody
+Scrafty: Intimidate
+Scraggy: Intimidate
+Scream Tail: Spawn timeAny
+Scyther: Steadfast
+Seadra: Damp
+Seaking: Lightning Rod
+Sealeo: Oblivious
+Seedot: Pickpocket
+Seel: Ice Body
+Seismitoad: Water Absorb
+Sentret: Frisk
+Serperior: Contrary
+Servine: Contrary
+Seviper: Infiltrator
+Sewaddle: Overcoat
+Sharpedo: Speed Boost
+Shaymin: Spawn timeMorning
+Shellos: Sand Force
+Shelmet: Overcoat
+Shieldon: Soundproof
+Shiftry: Pickpocket
+Shiinotic: Rain Dish
+Shinx: Guts
+Shroodle: Prankster
+Shuckle: Contrary
+Shuppet: Cursed Body
+Sigilyph: Tinted Lens
+Silcoon: Spawn timeDawn/Morning
+Silicobra: Sand Veil
+Silvally: Spawn timeNone
+Simipour: Torrent
+Simisage: Overgrow
+Simisear: Blaze
+Sirfetch'd: Scrappy
+Sizzlipede: Flame Body
+Skarmory: Weak Armor
+Skeledirge: Unaware
+Skiddo: Grass Pelt
+Skiploom: Infiltrator
+Skitty: Wonder Skin
+Skorupi: Keen Eye
+Skrelp: Adaptability
+Skuntank: Keen Eye
+Skwovet: Gluttony
+Slaking: Spawn timeAfternoon
+Slakoth: Spawn timeDay
+Sliggoo (Hisui): Gooey
+Sliggoo (Kalos): Gooey
+Slither Wing: Spawn timeAny
+Slowbro (Galar): Regenerator
+Slowbro (Kanto): Regenerator
+Slowking (Galar): Regenerator
+Slowking (Johto): Regenerator
+Slowpoke (Galar): Regenerator
+Slowpoke (Kanto): Regenerator
+Slugma: Weak Armor
+Slurpuff: Unburden
+Smeargle: Moody
+Smoliv: Harvest
+Smoochum: Hydration
+Sneasel (Hisui): Poison Touch
+Sneasel (Johto): Pickpocket
+Sneasler: Poison Touch
+Snivy: Contrary
+Snom: Ice Scales
+Snorunt: Moody
+Snover: Soundproof
+Snubbull: Rattled
+Sobble: Sniper
+Solgaleo: Spawn timeNone
+Solosis: Regenerator
+Solrock: Spawn timeDawn, Day
+Spearow: Sniper
+Spectrier: Spawn timeNight
+Spewpa: Friend Guard
+Spheal: Oblivious
+Spidops: Stakeout
+Spinarak: Sniper
+Spinda: Contrary
+Spiritomb: Infiltrator
+Spoink: Gluttony
+Spritzee: Aroma Veil
+Squirtle: Rain Dish
+Stakataka: Spawn timeAny
+Stantler: Sap Sipper
+Staraptor: Staraptor
+Staravia: Reckless
+Starly: Reckless
+Starmie: Analytic
+Staryu: Analytic
+Steelix: Sheer Force
+Steenee: Sweet Veil
+Stonjourner: Spawn timeDay
+Stoutland: Scrappy
+Stufful: Cute Charm
+Stunfisk (Galar): N/A
+Stunfisk (Unova): Sand Veil
+Stunky: Keen Eye
+Sudowoodo: Rattled
+Suicune: Inner Focus
+Sunflora: Early Bird
+Sunkern: Early Bird
+Surskit: Rain Dish
+Swablu: Cloud Nine
+Swadloon: Overcoat
+Swalot: Gluttony
+Swampert: Damp
+Swanna: Hydration
+Swellow: Scrappy
+Swinub: Thick Fat
+Swirlix: Unburden
+Swoobat: Simple
+Tadbulb: Damp
+Taillow: Scrappy
+Tandemaus: Own Tempo
+Tangela: Regenerator
+Tangrowth: Regenerator
+Tapu Bulu: Telepathy
+Tapu Fini: Telepathy
+Tapu Koko: Telepathy
+Tapu Lele: Telepathy
+Tarountula: Stakeout
+Tauros (Kanto): Sheer Force
+Tauros (Paldea (Aqua Breed)): Cud Chew
+Tauros (Paldea (Blaze Breed)): Cud Chew
+Tauros (Paldea (Combat Breed)): Cud Chew
+Teddiursa: Honey Gather
+Tentacool: Rain Dish
+Tentacruel: Rain Dish
+Tepig: Thick Fat
+Terrakion: Spawn timeNight
+Thievul: Stakeout
+Throh: Mold Breaker
+Thundurus: Defiant
+Thwackey: Grassy Surge
+Timburr: Iron Fist
+Ting-Lu: Spawn timeNight
+Tirtouga: Swift Swim
+Toedscool: Spawn timeDay
+Toedscruel: Spawn timeDay
+Togedemaru: Sturdy
+Togekiss: Super Luck
+Togepi: Super Luck
+Togetic: Super Luck
+Torchic: Speed Boost
+Torkoal: Shell Armor
+Tornadus: Defiant
+Torracat: Intimidate
+Torterra: Shell Armor
+Totodile: Sheer Force
+Toucannon: Sheer Force
+Toxel: Klutz
+Toxicroak: Poison Touch
+Tranquill: Rivalry
+Trapinch: Sheer Force
+Treecko: Unburden
+Trevenant: Harvest
+Tropius: Harvest
+Trubbish: Aftermath
+Trumbeak: Pickup
+Tsareena: Sweet Veil
+Turtonator: Spawn timeDay
+Turtwig: Shell Armor
+Tympole: Water Absorb
+Tynamo: Spawn timeNight
+Typhlosion (Hisui): Frisk
+Typhlosion (Johto): Flash Fire
+Tyranitar: Unnerve
+Tyrantrum: Rock Head
+Tyrogue: Vital Spirit
+Tyrunt: Sturdy
+Unfezant: Rivalry
+Unown: Spawn timeNight
+Ursaluna: Unnerve
+Ursaring: Unnerve
+Urshifu (Rapid Strike): Spawn timeNone
+Urshifu (Single Strike): Spawn timeNone
+Uxie: Spawn timeAfternoon
+Vanillish: Weak Armor
+Vanillite: Weak Armor
+Vanilluxe: Weak Armor
+Varoom: Slow Start
+Veluza: Sharpness
+Venipede: Speed Boost
+Venusaur: Chlorophyll
+Vespiquen: Unnerve
+Vibrava: Spawn timeDay
+Victini: Spawn timeDay
+Vigoroth: Spawn timeMorning
+Vikavolt: Spawn timeAfternoonDusk/Night
+Virizion: Spawn timeDay
+Vivillon: Friend Guard
+Volbeat: Prankster
+Volcanion: Spawn timeDawn/Morning
+Voltorb (Hisui): Aftermath
+Voltorb (Kanto): Aftermath
+Vullaby: Weak Armor
+Vulpix (Alola): Snow Warning
+Vulpix (Kanto): Drought
+Wailmer: Pressure
+Wailord: Pressure
+Walking Wake: Spawn timeNone
+Walrein: Oblivious
+Wartortle: Rain Dish
+Watchog: Analytic
+Wattrel: Competitive
+Weezing (Galar): Misty Surge
+Weezing (Kanto): Stench
+Whimsicott: Chlorophyll
+Whirlipede: Speed Boost
+Whiscash: Hydration
+Whismur: Rattled
+Wigglytuff: Frisk
+Wiglett: Sand Veil
+Wimpod: Spawn timeNight
+Wingull: Rain Dish
+Wishiwashi: Spawn timeAny
+Wo-Chien: Spawn timeNight
+Wobbuffet: Telepathy
+Woobat: Simple
+Wooper (Johto): Unaware
+Wooper (Paldea): Unaware
+Wormadam (Plant Cloak): Overcoat
+Wormadam (Sandy Cloak): Overcoat
+Wormadam (Trash Cloak): Overcoat
+Wugtrio: Sand Veil
+Wurmple: Run Away
+Wynaut: Telepathy
+Wyrdeer: Sap Sipper
+Xatu: Magic Bounce
+Xerneas: Spawn timeDay
+Xurkitree: Spawn timeAny
+Yamask (Galar): Spawn timeNight
+Yamask (Unova): Spawn timeNight
+Yanma: Frisk
+Yanmega: Frisk
+Yungoos: Adaptability
+Yveltal: Spawn timeNight
+Zacian: Spawn timeDay
+Zamazenta: Spawn timeNight
+Zangoose: Toxic Boost
+Zapdos (Galar): Spawn timeAny
+Zapdos (Kanto): Static
+Zarude: Spawn timeNight
+Zebstrika: Sap Sipper
+Zekrom: Spawn timeNight
+Zeraora: Spawn timeDusk
+Zigzagoon (Galar): Quick Feet
+Zigzagoon (Hoenn): Quick Feet
+Zoroark (Hisui): N/A
+Zoroark (Unova): Spawn timeNight
+Zorua (Hisui): N/A
+Zorua (Unova): Spawn timeNight
+Zweilous: Spawn timeNight
+Zygarde: Spawn timeDawn/Dusk
